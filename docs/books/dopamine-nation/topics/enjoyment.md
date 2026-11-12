@@ -1,8 +1,8 @@
 # Enjoyment and its opposite
 
-*Dopamine Nation* · Chapters 1–8
+*Dopamine Nation* · Chapters 1–9
 
-The first eight chapters distinguish looking forward to an activity, enjoying it as it happens, feeling relieved by it, and feeling satisfied afterward. The same activity can feel different at each of those points.
+The nine chapters distinguish looking forward to an activity, enjoying it as it happens, feeling relieved by it, and feeling satisfied afterward. The same activity can feel different at each of those points.
 
 ## Chapter 1 · Our Masturbation Machines
 
@@ -119,3 +119,15 @@ Maria opens her brother’s package for a small lift after work. She barely reme
 Lembke enjoys escaping into a novel. When she can see how reliably late-night reading leaves her exhausted, the habit loses some of its appeal.
 
 [Read Chapter 8](../chapters/08-radical-honesty.md)
+
+## Chapter 9 · Prosocial Shame
+
+### Belonging can be rewarding
+
+Lori describes the relief of letting go of secrets and the pleasure of being known by people she trusts. Lembke’s story about eating her children’s chocolate shows another sequence: a small pleasure is followed by days of concealment, and owning up lets the family reconnect.
+
+### The setting can change what you enjoy
+
+Lembke’s daughter dislikes piano practice and still enjoys music after she quits the lessons. Singing along to the radio gives her a way to enjoy music without turning it into a performance.
+
+[Read Chapter 9](../chapters/09-prosocial-shame.md)

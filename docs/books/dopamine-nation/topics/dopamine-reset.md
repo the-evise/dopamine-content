@@ -1,6 +1,6 @@
 # Dopamine reset and habit problems
 
-*Dopamine Nation* · Chapters 1–8
+*Dopamine Nation* · Chapters 1–9
 
 These chapters describe how habits become compulsive, what makes an interruption difficult, and what people notice during a break. Chapter 4 lays out Lembke’s dopamine-fasting approach. The early cases describe behavior and experience. Chapter 3 adds reward-system research and Lembke’s account of why taking a break may help.
 
@@ -119,3 +119,15 @@ Lembke first recognizes the costs of her reading habit when she tells someone ho
 Lembke describes an experiment in which children waited longer for a reward after an adult kept an earlier promise. She uses the example to explain why a reliable environment can make waiting feel worthwhile. Jacob’s conversation with his wife illustrates how being honest about a difficult detail can help repair trust.
 
 [Read Chapter 8](../chapters/08-radical-honesty.md)
+
+## Chapter 9 · Prosocial Shame
+
+### Shame can feed a habit or lead to repair
+
+Lembke’s mentor drinks to escape shame about his drinking and the lies he tells to cover it. Lori’s experience shows how pressure to keep a problem secret can deepen isolation. Lembke calls this **destructive shame**. She calls it **prosocial shame** when a group takes the problem seriously, keeps the person connected, and offers a way to make amends.
+
+### A setback tests the support around you
+
+Lembke uses AA to show how someone can disclose a setback and receive both acceptance and expectations about what to do next. Todd carries that kind of accountability into his work by giving a struggling student a clear chance to improve. Joan’s story illustrates how demanding a group’s rules can feel. Lembke also warns that the cost of belonging can grow too high.
+
+[Read Chapter 9](../chapters/09-prosocial-shame.md)

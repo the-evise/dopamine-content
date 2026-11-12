@@ -14,6 +14,7 @@ These notes follow the book chapter by chapter. Each chapter page includes a mai
 6. [A Broken Balance?](./chapters/06-a-broken-balance.md)
 7. [Pressing on the Pain Side](./chapters/07-pressing-on-the-pain-side.md)
 8. [Radical Honesty](./chapters/08-radical-honesty.md)
+9. [Prosocial Shame](./chapters/09-prosocial-shame.md)
 
 ## Topics across chapters
 
