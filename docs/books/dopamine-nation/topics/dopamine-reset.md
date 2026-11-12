@@ -1,8 +1,8 @@
 # Dopamine reset and habit problems
 
-*Dopamine Nation* · Chapters 1–2
+*Dopamine Nation* · Chapters 1–3
 
-These chapters describe how habits become compulsive, what makes an interruption difficult, and what people notice during a break. Lembke introduces her formal dopamine-fasting approach in Chapter 4. The cases covered here describe behavior and experience without measuring dopamine.
+These chapters describe how habits become compulsive, what makes an interruption difficult, and what people notice during a break. Lembke introduces her formal dopamine-fasting approach in Chapter 4. The early cases describe behavior and experience. Chapter 3 adds reward-system research and Lembke’s account of why taking a break may help.
 
 ## Chapter 1 · Our Masturbation Machines
 
@@ -39,3 +39,19 @@ Sophie finds her walk without audio boring at first. The quiet becomes more tole
 David asks his wife to take him to the hospital during a crisis. He goes through stimulant and sedative withdrawal during a two-week inpatient stay. The chapter presents this as medical care for his situation, alongside a separate story about changing a daily digital habit.
 
 [Read Chapter 2](../chapters/02-running-from-pain.md)
+
+## Chapter 3 · The Pleasure-Pain Balance
+
+### Tolerance can lead to escalation
+
+In Lembke’s model, repeated exposure can make the reward weaker or shorter and leave a more pronounced unpleasant aftereffect. This helps explain why someone may increase the amount or seek a stronger version to recover the original feeling.
+
+### Withdrawal can make relief the reason to return
+
+Lembke describes people returning to a substance to ease anxiety, irritability, sleeplessness, or low mood. She also describes how the reward system can readapt during abstinence and how simple pleasures can return. The chapter gives no universal timetable for that process.
+
+### Learned cues can outlast a break
+
+A familiar place, sound, or routine can prompt craving before any reward is available. Lembke discusses gambling to show how an unpredictable payoff can sustain the pursuit. She also describes animal research on long-lasting cocaine sensitization and discusses how people in recovery can develop new habits even when vulnerabilities persist.
+
+[Read Chapter 3](../chapters/03-the-pleasure-pain-balance.md)

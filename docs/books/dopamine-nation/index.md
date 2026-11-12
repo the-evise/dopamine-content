@@ -8,6 +8,7 @@ These notes follow the book chapter by chapter. Each chapter page includes a mai
 
 1. [Our Masturbation Machines](./chapters/01-our-masturbation-machines.md)
 2. [Running from Pain](./chapters/02-running-from-pain.md)
+3. [The Pleasure-Pain Balance](./chapters/03-the-pleasure-pain-balance.md)
 
 ## Topics across chapters
 

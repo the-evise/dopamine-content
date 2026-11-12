@@ -1,8 +1,8 @@
 # Enjoyment and its opposite
 
-*Dopamine Nation* · Chapters 1–2
+*Dopamine Nation* · Chapters 1–3
 
-The first two chapters distinguish looking forward to an activity, enjoying it as it happens, feeling relieved by it, and feeling satisfied afterward. The same activity can feel different at each of those points.
+The first three chapters distinguish looking forward to an activity, enjoying it as it happens, feeling relieved by it, and feeling satisfied afterward. The same activity can feel different at each of those points.
 
 ## Chapter 1 · Our Masturbation Machines
 
@@ -35,3 +35,23 @@ Sophie initially finds the walk to class without audio boring. After getting use
 David leaves engineering, a subject he loves, because speaking up and asking for help feel too painful. Years later, he rediscovers coding in a workplace where colleagues are willing to help him learn.
 
 [Read Chapter 2](../chapters/02-running-from-pain.md)
+
+## Chapter 3 · The Pleasure-Pain Balance
+
+### Wanting can persist as enjoyment fades
+
+Dopamine helps motivate the pursuit of a reward. Lembke’s rereading of *Twilight* illustrates the difference. She enjoyed each reread less and felt more eager to recover the original feeling afterward. Eventually, she had trouble enjoying romance novels at all and still found the habit difficult to drop.
+
+### Anticipation and the aftermath shape the experience
+
+A cue can make a future reward feel close enough to pursue. When the expected payoff fails to arrive, the anticipation can give way to disappointment. Even when the reward arrives, Lembke’s opponent-process model describes how pleasure can be followed by restlessness, dissatisfaction, or craving.
+
+### Pain and pleasure can overlap
+
+Spicy food can hurt and taste good at the same time. Beecher’s wounded soldiers and the construction worker with a nail through his boot illustrate how the meaning of an event can affect how much pain someone feels.
+
+### Ordinary pleasures can return
+
+Lembke uses anhedonia to describe diminished enjoyment and explains how everyday rewards can feel flat during heavy, prolonged substance use. She describes people regaining pleasure in ordinary experiences, such as a walk or a meal with friends, as they readapt during abstinence.
+
+[Read Chapter 3](../chapters/03-the-pleasure-pain-balance.md)
