@@ -17,3 +17,7 @@ Anna Lembke’s companion workbook turns the DOPAMINE framework into eight chapt
 ## [Digital Minimalism](./digital-minimalism/index.md)
 
 A filtered summary of Cal Newport’s book on digital reward loops, the 30-day declutter, and what makes leisure satisfying.
+
+## [The Molecule of More](./the-molecule-of-more/index.md)
+
+A chapter-by-chapter overview of Daniel Z. Lieberman and Michael E. Long’s book on anticipation, wanting, creativity, and present enjoyment.
