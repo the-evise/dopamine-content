@@ -1,6 +1,6 @@
 # Dopamine reset and habit problems
 
-*Dopamine Nation* · Chapters 1–5
+*Dopamine Nation* · Chapters 1–6
 
 These chapters describe how habits become compulsive, what makes an interruption difficult, and what people notice during a break. Chapter 4 lays out Lembke’s dopamine-fasting approach. The early cases describe behavior and experience. Chapter 3 adds reward-system research and Lembke’s account of why taking a break may help.
 
@@ -83,3 +83,15 @@ Lembke describes limits people set in advance. **Space** changes access, as when
 Oscar turns a locked drawer into a puzzle to solve. Muhammad revises each time rule after he starts using cannabis again. Lembke uses **delay discounting**, the tendency to value a reward less when it’s farther away, to explain why the immediate payoff can outweigh a goal that mattered before. Jacob’s return to his old routine after a year away shows how cues and stressful settings can matter long after a break.
 
 [Read Chapter 5](../chapters/05-space-time-and-meaning.md)
+
+## Chapter 6 · A Broken Balance?
+
+### Recovery can include ongoing treatment
+
+Chris credits buprenorphine with helping him manage cravings and build a stable life. He chooses to continue it. Lembke leaves open how much his earlier distress came from years of substance use, a preexisting vulnerability, his circumstances, or a combination. [SAMHSA clinical guidance](https://store.samhsa.gov/sites/default/files/sma18-5054.pdf)
+
+### Ask what the habit was doing for the person
+
+Opioids briefly gave Chris a sense of connection. Lembke asks what support someone needs for isolation or difficult circumstances alongside help with cravings. She also describes people weighing how treatment affects both their distress and their capacity to feel moved by things they care about.
+
+[Read Chapter 6](../chapters/06-a-broken-balance.md)

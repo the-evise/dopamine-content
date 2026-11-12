@@ -1,8 +1,8 @@
 # Enjoyment and its opposite
 
-*Dopamine Nation* · Chapters 1–5
+*Dopamine Nation* · Chapters 1–6
 
-The first five chapters distinguish looking forward to an activity, enjoying it as it happens, feeling relieved by it, and feeling satisfied afterward. The same activity can feel different at each of those points.
+The first six chapters distinguish looking forward to an activity, enjoying it as it happens, feeling relieved by it, and feeling satisfied afterward. The same activity can feel different at each of those points.
 
 ## Chapter 1 · Our Masturbation Machines
 
@@ -83,3 +83,15 @@ After giving up the Kindle, Lembke can still read fiction. Going to a bookstore 
 Nearly six months after his relapse, Jacob describes being able to choose what he does again. He enjoys seeing his wife and looks forward to Christmas with her.
 
 [Read Chapter 5](../chapters/05-space-time-and-meaning.md)
+
+## Chapter 6 · A Broken Balance?
+
+### Relief can make room for things you care about
+
+When Chris was using opioids, his sense of connection faded when the effects wore off. With his cravings more manageable during treatment, he could engage in research, build relationships, and look forward to seeing his wife.
+
+### A wider emotional range includes difficult feelings
+
+Lembke describes a patient who valued being able to grieve even when anxiety and depression returned. Another patient’s husband noticed that she enjoyed listening to music again after tapering off long-term opioid pain medication. Lembke recalls getting along with her mother more easily while taking Prozac and valuing the curiosity and questioning that returned when she stopped. The people in these accounts weigh relief and emotional range differently.
+
+[Read Chapter 6](../chapters/06-a-broken-balance.md)

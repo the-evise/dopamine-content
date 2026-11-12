@@ -11,6 +11,7 @@ These notes follow the book chapter by chapter. Each chapter page includes a mai
 3. [The Pleasure-Pain Balance](./chapters/03-the-pleasure-pain-balance.md)
 4. [Dopamine Fasting](./chapters/04-dopamine-fasting.md)
 5. [Space, Time, and Meaning](./chapters/05-space-time-and-meaning.md)
+6. [A Broken Balance?](./chapters/06-a-broken-balance.md)
 
 ## Topics across chapters
 
