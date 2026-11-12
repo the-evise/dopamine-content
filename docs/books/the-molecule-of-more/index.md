@@ -24,6 +24,8 @@ A man smells a burger and wants it so badly that he changes his plans. After eat
 
 The authors distinguish what they call **desire dopamine**, which makes a reward compelling, from **control dopamine**, their term for circuits involved in planning and weighing future outcomes. The same future orientation that makes an impulse feel urgent can also help you decide whether to act on it. In one animal experiment, rats with reduced dopamine activity still readily ate treats when they were easy to get. As the work required increased, the rats were less willing to keep pressing for them. The chapter uses this to explore effort, persistence, and how much work a reward feels worth.
 
+[Read the Chapter 3 deep dive](./chapters/03-domination.md)
+
 ## Chapter 4 — Creativity and Madness
 
 We use mental models to make sense of the world. Creative insight can happen when we loosen a model enough to notice something we’d previously dismissed. The chapter gives a riddle about what appears in *years* and *weeks* but never in *months* or *days*. Thinking about calendars gets you stuck. Looking at the words reveals the letter **e**. The authors also discuss *salience*, or what stands out as important, and use psychosis to explore what happens when ordinary events take on extraordinary significance. They draw a parallel about how associations acquire meaning.
