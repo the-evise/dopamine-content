@@ -18,6 +18,10 @@ These notes follow the book chapter by chapter. Each chapter page includes a mai
 
 [Conclusion — Lessons of the Balance](./chapters/conclusion-lessons-of-the-balance.md)
 
+## Story Threads
+
+[Read the five stories](./stories/index.md) in order across chapters, or browse them by topic.
+
 ## Topics across chapters
 
 - [Enjoyment and its opposite](./topics/enjoyment.md) follows anticipation, in-the-moment pleasure, satisfaction, boredom, and distress.

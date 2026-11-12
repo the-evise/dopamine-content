@@ -30,9 +30,11 @@ const sidebar = Object.fromEntries(
       const title = pageTitle(`${path}/index.md`)
       const chapters = pagesIn(`${path}/chapters`, `${title} — `)
       const topics = pagesIn(`${path}/topics`)
+      const stories = pagesIn(`${path}/stories`)
       return [`/${path}/`, [
         { text: title, link: `/${path}/` },
         { text: 'Chapters', items: chapters },
+        ...(stories.length ? [{ text: 'Story Threads', link: `/${path}/stories/`, items: stories }] : []),
         ...(topics.length ? [{ text: 'Topics', items: topics }] : []),
       ]]
     }),
