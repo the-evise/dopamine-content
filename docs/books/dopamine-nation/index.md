@@ -1,0 +1,15 @@
+# Dopamine Nation
+
+*Finding Balance in the Age of Indulgence* by Anna Lembke.
+
+These notes follow the book chapter by chapter. Each chapter page includes a main summary, narrative retellings of the people’s stories, and notes on habit problems and enjoyment.
+
+## Chapters
+
+1. [Our Masturbation Machines](./chapters/01-our-masturbation-machines.md)
+2. [Running from Pain](./chapters/02-running-from-pain.md)
+
+## Topics across chapters
+
+- [Enjoyment and its opposite](./topics/enjoyment.md) follows anticipation, in-the-moment pleasure, satisfaction, boredom, and distress.
+- [Dopamine reset, fasting, and habit problems](./topics/dopamine-reset.md) follows what makes compulsive habits stick and what happens when people try to interrupt them.
