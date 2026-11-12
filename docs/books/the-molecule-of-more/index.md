@@ -48,6 +48,8 @@ The book widens its lens from individuals to societies. The authors speculate ab
 
 The final chapter brings future-oriented motivation and present enjoyment together through **mastery**. Cooking, painting, or fixing something can give you a goal to work toward while asking you to pay close attention to what you’re doing. One story follows a financial executive who rediscovers painting after years away. He has something to look forward to at the end of the day and something he enjoys doing once he gets there.
 
+[Read the Chapter 7 deep dive](./chapters/07-harmony.md)
+
 ## What stands out for Dopamine Personality
 
 The book gives us four things to ask about: **the surprise that catches your attention, the possibility that draws you in, the progress that keeps you engaged, and the satisfaction you feel once the result is real**. Someone can love discovering new projects, lose interest when the outcome becomes predictable, and still find deep satisfaction in a familiar skill. Chapters **1, 2, 3, and 7** give the clearest examples of how those experiences come apart and how they can work together.
