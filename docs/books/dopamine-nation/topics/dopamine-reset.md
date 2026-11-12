@@ -1,6 +1,6 @@
 # Dopamine reset and habit problems
 
-*Dopamine Nation* · Chapters 1–7
+*Dopamine Nation* · Chapters 1–8
 
 These chapters describe how habits become compulsive, what makes an interruption difficult, and what people notice during a break. Chapter 4 lays out Lembke’s dopamine-fasting approach. The early cases describe behavior and experience. Chapter 3 adds reward-system research and Lembke’s account of why taking a break may help.
 
@@ -107,3 +107,15 @@ Michael’s early recovery includes painful emotions and periods of numbness. Da
 Michael starts seeking colder baths for a stronger lift afterward. Lembke describes a similar pattern when exercise or work begins to take over someone’s time. She uses **hormesis** to discuss how responses to a challenge can differ with its intensity and duration. The cold-water study she cites measured a short-term change in blood dopamine, while Michael’s longer-term experience comes from his own account.
 
 [Read Chapter 7](../chapters/07-pressing-on-the-pain-side.md)
+
+## Chapter 8 · Radical Honesty
+
+### Describe the habit in enough detail to see it
+
+Lembke first recognizes the costs of her reading habit when she tells someone how it affects sleep, work, and family. After a month away, trying to moderate shows her how quickly the old pattern returns. A private journal or conversation with a trusted person can help make such a pattern visible.
+
+### Trust makes a later reward feel more believable
+
+Lembke describes an experiment in which children waited longer for a reward after an adult kept an earlier promise. She uses the example to explain why a reliable environment can make waiting feel worthwhile. Jacob’s conversation with his wife illustrates how being honest about a difficult detail can help repair trust.
+
+[Read Chapter 8](../chapters/08-radical-honesty.md)

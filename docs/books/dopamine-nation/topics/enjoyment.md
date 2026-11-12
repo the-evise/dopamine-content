@@ -1,8 +1,8 @@
 # Enjoyment and its opposite
 
-*Dopamine Nation* · Chapters 1–7
+*Dopamine Nation* · Chapters 1–8
 
-The first seven chapters distinguish looking forward to an activity, enjoying it as it happens, feeling relieved by it, and feeling satisfied afterward. The same activity can feel different at each of those points.
+The first eight chapters distinguish looking forward to an activity, enjoying it as it happens, feeling relieved by it, and feeling satisfied afterward. The same activity can feel different at each of those points.
 
 ## Chapter 1 · Our Masturbation Machines
 
@@ -107,3 +107,15 @@ Michael finds the initial cold unpleasant and enjoys the lift afterward. David f
 Lembke finds focused work rewarding enough that she struggles to stop. Reducing work travel gives her more time with family, even when people around her treat work as the more acceptable reason to decline an invitation.
 
 [Read Chapter 7](../chapters/07-pressing-on-the-pain-side.md)
+
+## Chapter 8 · Radical Honesty
+
+### The cost can outlast the pleasure
+
+Maria opens her brother’s package for a small lift after work. She barely remembers the contents and spends the night worrying about her lie. After admitting what she did, she feels relieved and closer to her brother. Jacob also expects a difficult admission to cost him closeness and finds his wife grateful he told her.
+
+### Seeing the pattern can change the experience
+
+Lembke enjoys escaping into a novel. When she can see how reliably late-night reading leaves her exhausted, the habit loses some of its appeal.
+
+[Read Chapter 8](../chapters/08-radical-honesty.md)
