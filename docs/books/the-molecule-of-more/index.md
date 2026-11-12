@@ -42,6 +42,8 @@ The authors apply their framework to the tension between imagining a better futu
 
 The book widens its lens from individuals to societies. The authors speculate about how novelty-seeking may have contributed to exploration, migration, invention, and entrepreneurship. They also ask what happens when progress creates an environment with an almost endless supply of new things to want. Each improvement can become the new baseline, freeing up attention for the next improvement before anyone has had much time to enjoy the last one.
 
+[Read the Chapter 6 deep dive](./chapters/06-progress.md)
+
 ## Chapter 7 — Harmony
 
 The final chapter brings future-oriented motivation and present enjoyment together through **mastery**. Cooking, painting, or fixing something can give you a goal to work toward while asking you to pay close attention to what you’re doing. One story follows a financial executive who rediscovers painting after years away. He has something to look forward to at the end of the day and something he enjoys doing once he gets there.
