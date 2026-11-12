@@ -1,6 +1,6 @@
 # Dopamine reset and habit problems
 
-*Dopamine Nation* · Chapters 1–4
+*Dopamine Nation* · Chapters 1–5
 
 These chapters describe how habits become compulsive, what makes an interruption difficult, and what people notice during a break. Chapter 4 lays out Lembke’s dopamine-fasting approach. The early cases describe behavior and experience. Chapter 3 adds reward-system research and Lembke’s account of why taking a break may help.
 
@@ -71,3 +71,15 @@ The steps are **Data, Objectives, Problems, Abstinence, Mindfulness, Insight, Ne
 Discomfort early in a break can make it hard to judge the eventual benefit. A substitute can take on the same compulsive role, and returning to use can trigger rapid escalation. Alcohol and benzodiazepine dependence require medical guidance before stopping. [Alcohol withdrawal guideline](https://www.asam.org/docs/default-source/quality-science/the_asam_clinical_practice_guideline_on_alcohol-1.pdf) · [Benzodiazepine tapering guideline](https://downloads.asam.org/sitefinity-production-blobs/docs/default-source/guidelines/benzodiazepine-tapering-2025/bzd-tapering-document---final-approved-version-for-distribution-02-28-25.pdf)
 
 [Read Chapter 4](../chapters/04-dopamine-fasting.md)
+
+## Chapter 5 · Space, Time, and Meaning
+
+### Self-binding puts a pause between urge and action
+
+Lembke describes limits people set in advance. **Space** changes access, as when she gives up her Kindle. **Time** sets a window or finish line, as when Muhammad waits until he passes his exam. **Meaning** defines which cues or activities fall within a boundary, as when Mitch avoids sports coverage that draws him back to betting. It can also change what an object stands for, as with the beer Jasmine keeps as a symbol of her decision.
+
+### A limit can become easier to renegotiate in the moment
+
+Oscar turns a locked drawer into a puzzle to solve. Muhammad revises each time rule after he starts using cannabis again. Lembke uses **delay discounting**, the tendency to value a reward less when it’s farther away, to explain why the immediate payoff can outweigh a goal that mattered before. Jacob’s return to his old routine after a year away shows how cues and stressful settings can matter long after a break.
+
+[Read Chapter 5](../chapters/05-space-time-and-meaning.md)

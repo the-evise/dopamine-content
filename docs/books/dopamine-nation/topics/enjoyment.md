@@ -1,8 +1,8 @@
 # Enjoyment and its opposite
 
-*Dopamine Nation* · Chapters 1–4
+*Dopamine Nation* · Chapters 1–5
 
-The first four chapters distinguish looking forward to an activity, enjoying it as it happens, feeling relieved by it, and feeling satisfied afterward. The same activity can feel different at each of those points.
+The first five chapters distinguish looking forward to an activity, enjoying it as it happens, feeling relieved by it, and feeling satisfied afterward. The same activity can feel different at each of those points.
 
 ## Chapter 1 · Our Masturbation Machines
 
@@ -67,3 +67,19 @@ Delilah discovers that she enjoys some family events more sober. She also feels 
 Without her evening romance novels, Lembke initially feels dread. With time, she becomes more able to be present without immediately looking for something to occupy her mind. Understanding what the books offered her, including escape from a difficult family transition, helps explain why she kept reaching for them.
 
 [Read Chapter 4](../chapters/04-dopamine-fasting.md)
+
+## Chapter 5 · Space, Time, and Meaning
+
+### Relief can keep you in the activity
+
+Jacob describes the long sessions with his machine as a trance. While he’s absorbed, he stops thinking about his family problems. Afterward, he wants to stop and finds himself repeating the routine.
+
+### How you get an activity can affect how long you stay with it
+
+After giving up the Kindle, Lembke can still read fiction. Going to a bookstore or library puts a pause before starting another book and helps her spend less time reading beyond what she intended.
+
+### Limits can leave more room for other pleasures
+
+Nearly six months after his relapse, Jacob describes being able to choose what he does again. He enjoys seeing his wife and looks forward to Christmas with her.
+
+[Read Chapter 5](../chapters/05-space-time-and-meaning.md)
