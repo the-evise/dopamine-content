@@ -18,6 +18,8 @@ The book follows Shawn and Samantha from the excitement of meeting to the famili
 
 A man smells a burger and wants it so badly that he changes his plans. After eating it, he realizes it was only okay. That small gap between **wanting and liking** becomes much more consequential in the chapter’s accounts of addiction. Someone can keep pursuing an experience that gives them less pleasure over time, especially when it offers temporary relief. The authors also discuss how cues, easy access, and unpredictable rewards can sustain pursuit in settings such as gambling and video games.
 
+[Read the Chapter 2 deep dive](./chapters/02-drugs.md)
+
 ## Chapter 3 — Domination
 
 The authors distinguish what they call **desire dopamine**, which makes a reward compelling, from **control dopamine**, their term for circuits involved in planning and weighing future outcomes. The same future orientation that makes an impulse feel urgent can also help you decide whether to act on it. In one animal experiment, rats with reduced dopamine activity still readily ate treats when they were easy to get. As the work required increased, the rats were less willing to keep pressing for them. The chapter uses this to explore effort, persistence, and how much work a reward feels worth.
