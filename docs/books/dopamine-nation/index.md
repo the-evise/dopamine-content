@@ -16,6 +16,8 @@ These notes follow the book chapter by chapter. Each chapter page includes a mai
 8. [Radical Honesty](./chapters/08-radical-honesty.md)
 9. [Prosocial Shame](./chapters/09-prosocial-shame.md)
 
+[Conclusion — Lessons of the Balance](./chapters/conclusion-lessons-of-the-balance.md)
+
 ## Topics across chapters
 
 - [Enjoyment and its opposite](./topics/enjoyment.md) follows anticipation, in-the-moment pleasure, satisfaction, boredom, and distress.

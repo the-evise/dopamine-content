@@ -1,6 +1,6 @@
 # Enjoyment and its opposite
 
-*Dopamine Nation* · Chapters 1–9
+*Dopamine Nation* · Chapters 1–9 and conclusion
 
 The nine chapters distinguish looking forward to an activity, enjoying it as it happens, feeling relieved by it, and feeling satisfied afterward. The same activity can feel different at each of those points.
 
@@ -131,3 +131,15 @@ Lori describes the relief of letting go of secrets and the pleasure of being kno
 Lembke’s daughter dislikes piano practice and still enjoys music after she quits the lessons. Singing along to the radio gives her a way to enjoy music without turning it into a performance.
 
 [Read Chapter 9](../chapters/09-prosocial-shame.md)
+
+## Conclusion · Lessons of the Balance
+
+### Attention can change how a familiar activity feels
+
+At Point Reyes, Muhammad first experiences the trail as a series of reminders of smoking cannabis. Photographing a beetle gives him something to look closely at. He becomes absorbed in finding and photographing more of them, and he notices his cravings ease.
+
+### Some rewards become visible over time
+
+Lembke finds renewed enjoyment in following patients’ lives and listening to their stories over repeated visits. Maria compares progress in recovery to lighting an alley lamp by lamp and seeing how much light you have made only when you turn around.
+
+[Read the conclusion](../chapters/conclusion-lessons-of-the-balance.md)

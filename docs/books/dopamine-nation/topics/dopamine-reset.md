@@ -1,6 +1,6 @@
 # Dopamine reset and habit problems
 
-*Dopamine Nation* · Chapters 1–9
+*Dopamine Nation* · Chapters 1–9 and conclusion
 
 These chapters describe how habits become compulsive, what makes an interruption difficult, and what people notice during a break. Chapter 4 lays out Lembke’s dopamine-fasting approach. The early cases describe behavior and experience. Chapter 3 adds reward-system research and Lembke’s account of why taking a break may help.
 
@@ -131,3 +131,15 @@ Lembke’s mentor drinks to escape shame about his drinking and the lies he tell
 Lembke uses AA to show how someone can disclose a setback and receive both acceptance and expectations about what to do next. Todd carries that kind of accountability into his work by giving a struggling student a clear chance to improve. Joan’s story illustrates how demanding a group’s rules can feel. Lembke also warns that the cost of belonging can grow too high.
 
 [Read Chapter 9](../chapters/09-prosocial-shame.md)
+
+## Conclusion · Lessons of the Balance
+
+### A break can make room for a different experience
+
+Muhammad still associates a familiar trail with cannabis. Self-binding can create room between the urge and the action, and photography gives him a new way to spend that time. Lembke describes her own renewed interest in patient care as a gradual return to work she found meaningful.
+
+### Progress can take time to see
+
+Lembke brings together planned breaks, limits set in advance, honesty, and supportive accountability. Maria describes the effect of these kinds of daily changes as something she sees most clearly in hindsight.
+
+[Read the conclusion](../chapters/conclusion-lessons-of-the-balance.md)
