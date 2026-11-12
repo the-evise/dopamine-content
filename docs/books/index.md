@@ -13,3 +13,7 @@ Anna Lembke looks at what happens when powerful rewards become easy to access an
 ## [The Official Dopamine Nation Workbook](./dopamine-nation-workbook/index.md)
 
 Anna Lembke’s companion workbook turns the DOPAMINE framework into eight chapters of guided practice. Each chapter includes a summary, reflection prompts, a copyable worksheet, and a worked example.
+
+## [Digital Minimalism](./digital-minimalism/index.md)
+
+A filtered summary of Cal Newport’s book on digital reward loops, the 30-day declutter, and what makes leisure satisfying.
