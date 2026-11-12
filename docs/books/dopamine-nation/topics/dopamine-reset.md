@@ -1,6 +1,6 @@
 # Dopamine reset and habit problems
 
-*Dopamine Nation* · Chapters 1–6
+*Dopamine Nation* · Chapters 1–7
 
 These chapters describe how habits become compulsive, what makes an interruption difficult, and what people notice during a break. Chapter 4 lays out Lembke’s dopamine-fasting approach. The early cases describe behavior and experience. Chapter 3 adds reward-system research and Lembke’s account of why taking a break may help.
 
@@ -95,3 +95,15 @@ Chris credits buprenorphine with helping him manage cravings and build a stable 
 Opioids briefly gave Chris a sense of connection. Lembke asks what support someone needs for isolation or difficult circumstances alongside help with cravings. She also describes people weighing how treatment affects both their distress and their capacity to feel moved by things they care about.
 
 [Read Chapter 6](../chapters/06-a-broken-balance.md)
+
+## Chapter 7 · Pressing on the Pain Side
+
+### A break can reveal discomfort that needs attention
+
+Michael’s early recovery includes painful emotions and periods of numbness. David works with a therapist to approach social situations he used to avoid. Over time, those encounters become easier, and he starts enjoying some of them.
+
+### A rewarding substitute can escalate
+
+Michael starts seeking colder baths for a stronger lift afterward. Lembke describes a similar pattern when exercise or work begins to take over someone’s time. She uses **hormesis** to discuss how responses to a challenge can differ with its intensity and duration. The cold-water study she cites measured a short-term change in blood dopamine, while Michael’s longer-term experience comes from his own account.
+
+[Read Chapter 7](../chapters/07-pressing-on-the-pain-side.md)

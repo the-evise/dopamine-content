@@ -1,8 +1,8 @@
 # Enjoyment and its opposite
 
-*Dopamine Nation* · Chapters 1–6
+*Dopamine Nation* · Chapters 1–7
 
-The first six chapters distinguish looking forward to an activity, enjoying it as it happens, feeling relieved by it, and feeling satisfied afterward. The same activity can feel different at each of those points.
+The first seven chapters distinguish looking forward to an activity, enjoying it as it happens, feeling relieved by it, and feeling satisfied afterward. The same activity can feel different at each of those points.
 
 ## Chapter 1 · Our Masturbation Machines
 
@@ -95,3 +95,15 @@ When Chris was using opioids, his sense of connection faded when the effects wor
 Lembke describes a patient who valued being able to grieve even when anxiety and depression returned. Another patient’s husband noticed that she enjoyed listening to music again after tapering off long-term opioid pain medication. Lembke recalls getting along with her mother more easily while taking Prozac and valuing the curiosity and questioning that returned when she stopped. The people in these accounts weigh relief and emotional range differently.
 
 [Read Chapter 6](../chapters/06-a-broken-balance.md)
+
+## Chapter 7 · Pressing on the Pain Side
+
+### The timing of enjoyment can change
+
+Michael finds the initial cold unpleasant and enjoys the lift afterward. David first feels relief after conversations he expected to go badly. After repeated practice with his therapist, he begins enjoying some of the conversations themselves.
+
+### Deep engagement can crowd out other pleasures
+
+Lembke finds focused work rewarding enough that she struggles to stop. Reducing work travel gives her more time with family, even when people around her treat work as the more acceptable reason to decline an invitation.
+
+[Read Chapter 7](../chapters/07-pressing-on-the-pain-side.md)

@@ -12,6 +12,7 @@ These notes follow the book chapter by chapter. Each chapter page includes a mai
 4. [Dopamine Fasting](./chapters/04-dopamine-fasting.md)
 5. [Space, Time, and Meaning](./chapters/05-space-time-and-meaning.md)
 6. [A Broken Balance?](./chapters/06-a-broken-balance.md)
+7. [Pressing on the Pain Side](./chapters/07-pressing-on-the-pain-side.md)
 
 ## Topics across chapters
 
