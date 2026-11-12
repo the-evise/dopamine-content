@@ -1,4 +1,4 @@
-import { readdirSync, readFileSync } from 'node:fs'
+import { existsSync, readdirSync, readFileSync } from 'node:fs'
 import { defineConfig } from 'vitepress'
 
 const docs = new URL('../', import.meta.url)
@@ -12,14 +12,15 @@ function pageTitle(path) {
 
 function pagesIn(path, titlePrefix = '') {
   const folder = new URL(`${path}/`, docs)
-  return readdirSync(folder, { withFileTypes: true, throwIfNoEntry: false })
-    ?.filter((entry) => entry.isFile() && entry.name.endsWith('.md') && entry.name !== 'index.md')
+  if (!existsSync(folder)) return []
+  return readdirSync(folder, { withFileTypes: true })
+    .filter((entry) => entry.isFile() && entry.name.endsWith('.md') && entry.name !== 'index.md')
     .map((entry) => entry.name)
     .sort()
     .map((file) => ({
       text: pageTitle(`${path}/${file}`).replace(titlePrefix, ''),
       link: `/${path}/${file.slice(0, -3)}`,
-    })) ?? []
+    }))
 }
 
 const sidebar = Object.fromEntries(

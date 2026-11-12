@@ -9,3 +9,7 @@ Anna Lembke looks at what happens when powerful rewards become easy to access an
 - [Enjoyment and its opposite](./dopamine-nation/topics/enjoyment.md)
 - [Dopamine reset, fasting, and habit problems](./dopamine-nation/topics/dopamine-reset.md)
 - [Discomfort and Growth](./dopamine-nation/topics/discomfort-and-growth.md)
+
+## [The Official Dopamine Nation Workbook](./dopamine-nation-workbook/index.md)
+
+Anna Lembke’s companion workbook turns the DOPAMINE framework into eight chapters of guided practice. Each chapter includes a summary, reflection prompts, a copyable worksheet, and a worked example.
