@@ -30,6 +30,8 @@ The authors distinguish what they call **desire dopamine**, which makes a reward
 
 We use mental models to make sense of the world. Creative insight can happen when we loosen a model enough to notice something we’d previously dismissed. The chapter gives a riddle about what appears in *years* and *weeks* but never in *months* or *days*. Thinking about calendars gets you stuck. Looking at the words reveals the letter **e**. The authors also discuss *salience*, or what stands out as important, and use psychosis to explore what happens when ordinary events take on extraordinary significance. They draw a parallel about how associations acquire meaning.
 
+[Read the Chapter 4 deep dive](./chapters/04-creativity-and-madness.md)
+
 ## Chapter 5 — Politics
 
 The authors apply their framework to the tension between imagining a better future and protecting what already works. This is one of the book’s more speculative chapters. It opens with a political personality study whose interpretation was reversed after a coding error was discovered. The chapter offers a caution for personality research. **A group average tells you little about how a particular person will think or act.**
