@@ -12,6 +12,8 @@ The authors ask you to look down at things you can touch, then up at things you�
 
 The book follows Shawn and Samantha from the excitement of meeting to the familiarity of being together. Early on, there’s always something to discover or imagine. Later, much of what once surprised them becomes expected. The authors explain this through **reward prediction error**. In the experiments they describe, certain dopamine neurons respond when a reward is better than expected. As the animal learns what predicts the reward, the response shifts toward the cue. The authors use this to distinguish the thrill of early romance from the warmth and familiarity of companionate love.
 
+[Read the Chapter 1 deep dive](./chapters/01-love.md)
+
 ## Chapter 2 — Drugs
 
 A man smells a burger and wants it so badly that he changes his plans. After eating it, he realizes it was only okay. That small gap between **wanting and liking** becomes much more consequential in the chapter’s accounts of addiction. Someone can keep pursuing an experience that gives them less pleasure over time, especially when it offers temporary relief. The authors also discuss how cues, easy access, and unpredictable rewards can sustain pursuit in settings such as gambling and video games.
