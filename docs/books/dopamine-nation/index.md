@@ -26,3 +26,4 @@ These notes follow the book chapter by chapter. Each chapter page includes a mai
 
 - [Enjoyment and its opposite](./topics/enjoyment.md) follows anticipation, in-the-moment pleasure, satisfaction, boredom, and distress.
 - [Dopamine reset, fasting, and habit problems](./topics/dopamine-reset.md) follows what makes compulsive habits stick and what happens when people try to interrupt them.
+- [Discomfort and Growth](./topics/discomfort-and-growth.md) follows how practice, honesty, and belonging can change what happens when we face discomfort.

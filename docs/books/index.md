@@ -8,3 +8,4 @@ Anna Lembke looks at what happens when powerful rewards become easy to access an
 - [Story Threads](./dopamine-nation/stories/index.md)
 - [Enjoyment and its opposite](./dopamine-nation/topics/enjoyment.md)
 - [Dopamine reset, fasting, and habit problems](./dopamine-nation/topics/dopamine-reset.md)
+- [Discomfort and Growth](./dopamine-nation/topics/discomfort-and-growth.md)
