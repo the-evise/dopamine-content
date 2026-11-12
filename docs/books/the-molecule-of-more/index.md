@@ -36,6 +36,8 @@ We use mental models to make sense of the world. Creative insight can happen whe
 
 The authors apply their framework to the tension between imagining a better future and protecting what already works. This is one of the book’s more speculative chapters. It opens with a political personality study whose interpretation was reversed after a coding error was discovered. The chapter offers a caution for personality research. **A group average tells you little about how a particular person will think or act.**
 
+[Read the Chapter 5 deep dive](./chapters/05-politics.md)
+
 ## Chapter 6 — Progress
 
 The book widens its lens from individuals to societies. The authors speculate about how novelty-seeking may have contributed to exploration, migration, invention, and entrepreneurship. They also ask what happens when progress creates an environment with an almost endless supply of new things to want. Each improvement can become the new baseline, freeing up attention for the next improvement before anyone has had much time to enjoy the last one.
