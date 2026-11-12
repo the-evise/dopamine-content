@@ -1,8 +1,8 @@
 # Dopamine reset and habit problems
 
-*Dopamine Nation* · Chapters 1–3
+*Dopamine Nation* · Chapters 1–4
 
-These chapters describe how habits become compulsive, what makes an interruption difficult, and what people notice during a break. Lembke introduces her formal dopamine-fasting approach in Chapter 4. The early cases describe behavior and experience. Chapter 3 adds reward-system research and Lembke’s account of why taking a break may help.
+These chapters describe how habits become compulsive, what makes an interruption difficult, and what people notice during a break. Chapter 4 lays out Lembke’s dopamine-fasting approach. The early cases describe behavior and experience. Chapter 3 adds reward-system research and Lembke’s account of why taking a break may help.
 
 ## Chapter 1 · Our Masturbation Machines
 
@@ -55,3 +55,19 @@ Lembke describes people returning to a substance to ease anxiety, irritability, 
 A familiar place, sound, or routine can prompt craving before any reward is available. Lembke discusses gambling to show how an unpredictable payoff can sustain the pursuit. She also describes animal research on long-lasting cocaine sensitization and discusses how people in recovery can develop new habits even when vulnerabilities persist.
 
 [Read Chapter 3](../chapters/03-the-pleasure-pain-balance.md)
+
+## Chapter 4 · Dopamine Fasting
+
+### A planned break makes the habit easier to evaluate
+
+Delilah experiences cannabis as relief from anxiety. Taking time away lets her compare the initial discomfort with how she feels later. Lembke often uses about four weeks in practice, with timing varying by person and substance. Symptoms that persist give her a reason to investigate other causes.
+
+### The DOPAMINE framework
+
+The steps are **Data, Objectives, Problems, Abstinence, Mindfulness, Insight, Next steps, and Experiment**. The first three describe the habit and what it does for the person. During the break, the person observes what changes. The final steps turn those observations into a plan to test.
+
+### The transition has its own risks
+
+Discomfort early in a break can make it hard to judge the eventual benefit. A substitute can take on the same compulsive role, and returning to use can trigger rapid escalation. Alcohol and benzodiazepine dependence require medical guidance before stopping. [Alcohol withdrawal guideline](https://www.asam.org/docs/default-source/quality-science/the_asam_clinical_practice_guideline_on_alcohol-1.pdf) · [Benzodiazepine tapering guideline](https://downloads.asam.org/sitefinity-production-blobs/docs/default-source/guidelines/benzodiazepine-tapering-2025/bzd-tapering-document---final-approved-version-for-distribution-02-28-25.pdf)
+
+[Read Chapter 4](../chapters/04-dopamine-fasting.md)

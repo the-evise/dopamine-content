@@ -1,8 +1,8 @@
 # Enjoyment and its opposite
 
-*Dopamine Nation* · Chapters 1–3
+*Dopamine Nation* · Chapters 1–4
 
-The first three chapters distinguish looking forward to an activity, enjoying it as it happens, feeling relieved by it, and feeling satisfied afterward. The same activity can feel different at each of those points.
+The first four chapters distinguish looking forward to an activity, enjoying it as it happens, feeling relieved by it, and feeling satisfied afterward. The same activity can feel different at each of those points.
 
 ## Chapter 1 · Our Masturbation Machines
 
@@ -55,3 +55,15 @@ Spicy food can hurt and taste good at the same time. Beecher’s wounded soldier
 Lembke uses anhedonia to describe diminished enjoyment and explains how everyday rewards can feel flat during heavy, prolonged substance use. She describes people regaining pleasure in ordinary experiences, such as a walk or a meal with friends, as they readapt during abstinence.
 
 [Read Chapter 3](../chapters/03-the-pleasure-pain-balance.md)
+
+## Chapter 4 · Dopamine Fasting
+
+### A break can reveal enjoyment you were missing
+
+Delilah discovers that she enjoys some family events more sober. She also feels relieved to have her attention back after spending so much time arranging her next chance to get high. She still misses the creativity and escape she associates with cannabis.
+
+### Quiet can become easier to tolerate
+
+Without her evening romance novels, Lembke initially feels dread. With time, she becomes more able to be present without immediately looking for something to occupy her mind. Understanding what the books offered her, including escape from a difficult family transition, helps explain why she kept reaching for them.
+
+[Read Chapter 4](../chapters/04-dopamine-fasting.md)
